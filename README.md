@@ -1,5 +1,5 @@
 # Zombie
-![](./images/Screenshoot.png)
+![](./images/Screenshot.png)
 # Usage
 ```
 pkg update && pkg upgrade
