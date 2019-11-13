@@ -1,4 +1,4 @@
-# Zombie
+# Screenshot
 ![](./images/Screenshot.png)
 # Usage
 ```
