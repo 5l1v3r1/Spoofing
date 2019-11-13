@@ -51,7 +51,7 @@ time.sleep(1)
 print
 
 host = raw_input("\033[0m[\033[95;1m+\033[0m] \033[77;1mInput Web: \033[0m")
-port = input("\033[0m[\033[93;1m+\033[0m] \033[77;1mInput Port: \033[0m")
+port = raw_input("\033[0m[\033[93;1m+\033[0m] \033[77;1mInput Port: \033[0m")
 connect=50000
 ip = socket.gethostbyname( host )
 print
