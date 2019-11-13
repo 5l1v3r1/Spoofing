@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Virus
 # Mod by The Sixty Nine
-# Github: github.com/thesixtynine/Virusufo
+# Github: github.com/thesixtynine/Virus
 
 import os, sys, time, string, socket
 
