@@ -1,5 +1,5 @@
 # Spoofing:
-*Spoofing merupakan Teknik yang digunakan untuk memperoleh akses yang tidak sah ke suatu komputer , informasi, atau suatu jejaring sosial, dimana penyerang berpura-pura memalsukan bahwa mereka adalah host yang dapat dipercaya atau host pemilik sebenarnya , biasanya hal ini dilakukan oleh seorang peretas.
+*Spoofing merupakan Teknik yang digunakan untuk memperoleh akses yang tidak sah ke suatu komputer , informasi, atau suatu jejaring sosial, dimana penyerang berpura-pura memalsukan bahwa mereka adalah host yang dapat dipercaya atau host pemilik sebenarnya , biasanya hal ini dilakukan oleh seorang peretas.*
 #### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
